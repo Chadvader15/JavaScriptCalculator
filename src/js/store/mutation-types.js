@@ -1,0 +1,6 @@
+export const UPDATE_VALUE = 'UPDATE_VALUE'
+export const RESET_STATE = 'RESET_STATE'
+export const RESET_INPUT = 'RESET_INPUT'
+export const SWITCH_VALUE = 'SWITCH_VALUE'
+export const UNDO_LATEST = 'UNDO_LATEST'
+export const CALCULATE_VALUE = 'CALCULATE_VALUE'  
